@@ -90,4 +90,10 @@ This problem was disclosed on 19th August 2020 to the Australian Signals Directo
 
 Thanks to Rod Teague and Andrew Conway for their help.  Thanks also to Yaakov Smith for helpful review of this work.
 
+## Usage and Contacts
+
+You are welcome to quote or reuse this material as long as you credit the original source.
+
+Email contact: bfrengley [at] student.unimelb.edu.au or vanessa [at] thinkingcybersecurity.com 
+
 "Disclosure.md" [readonly] 88L, 11217C
