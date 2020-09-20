@@ -1,6 +1,7 @@
 # Code replay attack on the myGovID Scheme
 
-Ben Frengley (Masters student, University of Melbourne)
+Ben Frengley (Masters student, University of Melbourne)   
+
 Vanessa Teague (CEO, Thinking Cybersecurity Pty Ltd and the A/Prof (Adj.) Australian National University)
 
 ## Summary
